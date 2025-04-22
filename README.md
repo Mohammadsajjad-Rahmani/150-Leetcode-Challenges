@@ -1,1 +1,35 @@
-# 150-Leetcode-Challenges
+# 150-LeetCode-Challenges
+
+This repository tracks my journey of solving 150 LeetCode coding interview questions.  
+The goal is not just to solve them, but to deeply understand patterns, algorithms, and improve problem-solving skills.
+
+## 📌 What's included?
+
+For each problem:
+- ✅ solution approaches
+- 🧠 Key insights, edge cases, and reasoning
+- 📈 Time and space complexity analysis
+- 💡 Mistakes or learning notes (if any)
+
+## 🎯 Goal
+
+Solve all 150 hand-picked LeetCode questions that are most common in interviews and improve:
+- Understanding of core data structures & algorithms
+- Problem-solving patterns
+- Code clarity and efficiency
+
+## 📁 Folder Structure
+
+Each question has its own folder named with the question number and title (e.g., `001-Merge-Sorted-Array`):
+
+
+## ✅ Progress
+
+| # | Title | Difficulty | Status | Notes |
+|---|-------|------------|--------|-------|
+| 1 | Merge Sorted Array | Easy | ✅ Done | In-place merge using two pointers |
+| 2 | ... | ... | ⏳ In Progress | ... |
+
+> Table is updated as new questions are solved.
+
+
