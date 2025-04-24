@@ -28,7 +28,8 @@ Each question has its own folder named with the question number and title (e.g.,
 | # | Title | Difficulty | Status | Notes |
 |---|-------|------------|--------|-------|
 | 1 | Merge Sorted Array | Easy | ✅ Done | In-place merge using two pointers |
-| 2 | ... | ... | ⏳ In Progress | ... |
+| 2 | Remove Element | Easy | ✅ Done | In-place removal of elements using two pointers. |
+| 3 | ... | ... | ⏳ In Progress | ... |
 
 > Table is updated as new questions are solved.
 
