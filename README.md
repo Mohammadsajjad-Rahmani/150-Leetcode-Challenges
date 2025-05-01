@@ -22,15 +22,16 @@ Solve all 150 hand-picked LeetCode questions that are most common in interviews 
 
 Each question has its own folder named with the question number and title (e.g., `001-Merge-Sorted-Array`):
 
-
 ## ✅ Progress
+
 
 | # | Title | Difficulty | Status | Notes |
 |---|-------|------------|--------|-------|
 | 1 | Merge Sorted Array | Easy | ✅ Done | In-place merge using two pointers |
 | 2 | Remove Element | Easy | ✅ Done | In-place removal of elements using two pointers. |
-| 3 | ... | ... | ⏳ In Progress | ... |
+| 3 | Remove Duplicates From Sorted Array | Easy | ✅ Done | Two-pointer approach to overwrite duplicates while maintaining order. |
 
 > Table is updated as new questions are solved.
+
 
 
