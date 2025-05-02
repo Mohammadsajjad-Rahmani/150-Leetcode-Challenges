@@ -12,4 +12,4 @@ def remove_duplicates_II(nums):
     return k, nums
 
 
-print(remove_duplicates_II([1, 1, 1, 2, 2, 3])) #Output must be : 5
+print(remove_duplicates_II([1, 1, 1, 2, 2, 3])) # -> Output must be : 5
