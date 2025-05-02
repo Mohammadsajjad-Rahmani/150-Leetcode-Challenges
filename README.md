@@ -18,7 +18,7 @@ Solve all 150 hand-picked LeetCode questions that are most common in interviews 
 - Problem-solving patterns
 - Code clarity and efficiency
 
-## 📁 Folder Structure
+## 📁 Folder Structure 
 
 Each question has its own folder named with the question number and title (e.g., `001-Merge-Sorted-Array`):
 
