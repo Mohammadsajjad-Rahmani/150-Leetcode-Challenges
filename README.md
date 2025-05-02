@@ -30,6 +30,8 @@ Each question has its own folder named with the question number and title (e.g.,
 | 1 | Merge Sorted Array | Easy | ✅ Done | In-place merge using two pointers |
 | 2 | Remove Element | Easy | ✅ Done | In-place removal of elements using two pointers. |
 | 3 | Remove Duplicates From Sorted Array | Easy | ✅ Done | Two-pointer approach to overwrite duplicates while maintaining order. |
+| 4 | Remove Duplicates From Sorted Array II | Medium | ✅ Done | In-place filtering with two pointers, allowing up to two duplicates |
+
 
 > Table is updated as new questions are solved.
 
