@@ -27,11 +27,13 @@ Each question has its own folder named with the question number and title (e.g.,
 | # | Title | Difficulty | Status | Notes |
 |---|-------|------------|--------|-------|
 | 1 | Merge Sorted Array | Easy | ✅ Done | In-place merge using two pointers |
-| 2 | Remove Element | Easy | ✅ Done | In-place removal of elements using two pointers. |
-| 3 | Remove Duplicates From Sorted Array | Easy | ✅ Done | Two-pointer approach to overwrite duplicates while maintaining order. |
-| 4 | Remove Duplicates From Sorted Array II | Medium | ✅ Done | In-place filtering with two pointers, allowing up to two duplicates |
-| 5 | Majority Element | Easy | ✅ Done | Boyer-Moore Majority Vote algorithm for O(n) time and O(1) space. |
-| 6 | Rotate Array | Medium | ✅ Done | Slicing method and in-place reverse algorithm (3-step rotation) |
+| 2 | Remove Element | Easy | ✅ Done | In-place removal using two pointers |
+| 3 | Remove Duplicates From Sorted Array | Easy | ✅ Done | Two-pointer overwrite |
+| 4 | Remove Duplicates From Sorted Array II | Medium | ✅ Done | Allows up to two duplicates |
+| 5 | Majority Element | Easy | ✅ Done | Boyer-Moore Voting Algorithm |
+| 6 | Rotate Array | Medium | ✅ Done | Two solutions: slicing and in-place reversal |
+| 7 | Best Time to Buy and Sell Stock | Easy | ✅ Done | Track min price and max profit in one pass |
+
 
 
 > Table is updated as new questions are solved.
