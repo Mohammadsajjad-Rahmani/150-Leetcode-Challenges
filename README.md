@@ -33,6 +33,7 @@ Each question has its own folder named with the question number and title (e.g.,
 | 5 | Majority Element | Easy | ✅ Done | Boyer-Moore Voting Algorithm |
 | 6 | Rotate Array | Medium | ✅ Done | Two solutions: slicing and in-place reversal |
 | 7 | Best Time to Buy and Sell Stock | Easy | ✅ Done | Track min price and max profit in one pass |
+| 8 | Best Time to Buy and Sell Stock II | Medium | ✅ Done | Greedy algorithm: accumulate all positive price differences |
 
 
 
